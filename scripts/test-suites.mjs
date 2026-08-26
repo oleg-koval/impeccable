@@ -47,6 +47,7 @@ export const SUITES = {
           'tests/skills-cli.test.js',
           'tests/validate-plugin-versions.test.js',
           'tests/validate-plugin-manifest.test.js',
+          'tests/hook-rule-presentation.test.js',
         ],
       },
       {
